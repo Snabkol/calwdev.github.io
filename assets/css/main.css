@@ -1861,7 +1861,7 @@ body::before {
 			height: 1em;
 			line-height: 0.9em;
 			font-size: 2.5em;
-			margin: 0 0.25em 0 0.25em;
+			margin: 0 0.75rem 0 0.75rem;
 			opacity: 0.35;
 			outline: 0;
 			-moz-transition: opacity .25s ease-in-out;
