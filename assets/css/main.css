@@ -1909,8 +1909,8 @@ body::before {
 				-webkit-transition: opacity .25s ease-in-out;
 				-ms-transition: opacity .25s ease-in-out;
 				transition: opacity .25s ease-in-out;
-				width: 5.5em;
-				margin-left: -2.75em;
+				width: 7.5em;
+				margin-left: -3.75em;
 			}
 
 				#nav a span:after {
